@@ -16,3 +16,4 @@ dependencies:
     - geoplot
     - contextily
     - jupyterlab
+    - folium
